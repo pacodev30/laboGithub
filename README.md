@@ -1,2 +1,2 @@
 # laboGithub
-V1 develop
+V2 develop
